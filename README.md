@@ -9,6 +9,6 @@ To use it:
 
 
 Known limitations:
-Async request are gnored
+Async requests are ignored
 
 
