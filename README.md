@@ -7,8 +7,10 @@ To use it:
 2. add this project jar to tomcat lib folder
 3. add the following line to server.xml: &lt;Valve className="ca.usherbrooke.sti.si.monitoring.RequestValve"/&gt; before the closing Host tag
 
+The file zabbix_jmx_request_metrics_template.xml is a template for http://www.zabbix.com/ 
 
 Known limitations:
+
 Async requests are ignored
 
 
